@@ -1,3 +1,3 @@
-TUTORIAL AGULAR 2 QUICKSTART
-<!-- npm install -->
-<!-- npm start -->
+TUTORIAL ANGULAR 2 QUICKSTART
+<pre>npm install</pre>
+#npm start
